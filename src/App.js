@@ -40,9 +40,7 @@ export default function ColorGenerator() {
         {`Generated Color: ${color}`}
       </div>
       <br />
-      <div>
-        <button onClick={generateNewColor}> Generate </button>
-      </div>
+      <button onClick={generateNewColor}>Generate</button>
     </div>
   );
 }
