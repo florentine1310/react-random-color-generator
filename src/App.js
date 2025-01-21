@@ -1,4 +1,4 @@
-import randomColor from 'randomColor';
+import randomColor from 'randomcolor';
 import { useState } from 'react';
 
 export default function ColorGenerator() {
